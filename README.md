@@ -1,4 +1,4 @@
-# <h1>JPA-con-hibernate-Alura</h1>
+# <h1>JPA-con-hibernate</h1>
 
 proyecto: <h2>hibernate y jpa</h2>
 
